@@ -4,7 +4,7 @@ Aprenderemos a como hacer el efecto hidde menu sin plugins
 
 ### [Da Click Aquí para apoyarme en YouTube](https://www.youtube.com/c/AlexCGDesign?sub_confirmation=1)
 
-### [Tutorial: https://youtu.be/mdDaT9pROHY](https://youtu.be/mdDaT9pROHY)
+### [Tutorial: https://youtu.be/YonqjrU2btI](https://youtu.be/YonqjrU2btI)
 
 ![AlexCG Design](https://github.com/AlexCGDesign/Ventana-Modal-SinPlugins/blob/master/Modal/VENTANA%20MODAL.png)
 
